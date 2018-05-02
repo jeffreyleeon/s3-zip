@@ -27,7 +27,7 @@
   "dependencies": {
     "archiver": "^2.0.3",
     "readable-stream": "^2.1.5",
-    "s3-files": "^1.0.2"
+    "s3-files": "git://github.com/jeffreyleeon/s3-files.git"
   },
   "devDependencies": {
     "concat-stream": "^1.5.2",
